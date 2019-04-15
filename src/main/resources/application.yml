@@ -20,8 +20,8 @@ zuul:
       path:/jm-fair/**
       serviceId:jm-fair
     api-common:
-      path:/jm-borrow/**
-      serviceId:jm-borrow
+      path:/jm-journal/**
+      serviceId:jm-journal
       
   host:
       connect-timeout-millis: 60000
